@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+nav{
+	background-color: #38976B;
+	height: 100px;
+	width: 100%;
+}
+body{
+	background-color: #D9D8D8;
+}
+.container2{
+	background-color: white;
+	position: relative;
+	bottom: 80px;
+}
+.con1{
+	border-left: 1px solid #C4C3C3;
+}
+.user{
+	background-color: #D9D8D8;
+	height: 55px;
+}
+.search{
+	border-bottom: 5px;
+}
+.img-1{
+	width: 40px;
+	margin-top: 7px;
+}
+.img-2{
+	width: 40px;
+	height: 40px;
+}
+.icon-1{
+	position: relative;
+	left: 200px;
+	top: 15px;
+}
+.wasap-users{
+	height: 55px;
+	border-bottom: 1px solid #C4C3C3;
+}
+.unopen-chat{
+	list-style: none;
+}
